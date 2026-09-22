@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+
+# Archivos de sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+
+# PDFs y documentos descargados temporalmente
+*.pdf
+
+# Resultados de trabajo
+resultados_busqueda*.xlsx
+
+# Archivos Excel históricos de desarrollo
+analisis_temas.xlsx
+analisis_temas_v2.xlsx
+analisis_temas_v3.xlsx
+
+# Copias de desarrollo
+buscar_resoluciones_copy.py
+
+# Datos o carpetas de trabajo locales
+resoluciones/
